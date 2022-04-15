@@ -34,5 +34,7 @@ output screen, with angle<140 (notice that the timer has been activated)
 ![Screenshot (26)](https://user-images.githubusercontent.com/99831413/163585587-9a59ceaa-98dc-4a70-b0f6-07471e8f19ce.png)
 final window, with all relevant information for tracking progress
 
+https://drive.google.com/file/d/1QM8UFQciXxJll5SZaTAhdqO4mg6tzM8r/view
+here's the reference video. Download it (or maybe try it on other clips too) and the run the code
 
 That's it for now, have a nice day!

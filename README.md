@@ -30,3 +30,9 @@ output screen, when angle> 140
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/99831413/163582603-bb4a45f9-af24-49f0-b7e4-4987b724699e.png)
 output screen, with angle<140 (notice that the timer has been activated)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/99831413/163585587-9a59ceaa-98dc-4a70-b0f6-07471e8f19ce.png)
+final window, with all relevant information for tracking progress
+
+
+That's it for now, have a nice day!
